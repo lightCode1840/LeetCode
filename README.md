@@ -1,0 +1,2 @@
+# LeetCode
+pratice algorithm
